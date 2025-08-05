@@ -328,10 +328,7 @@ We welcome contributions! Here's how you can help:
 - [ ] Create GUI interface
 - [ ] Add performance benchmarking tools
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+---
 ## 🙏 Acknowledgments
 
 - **Computer Networking**: Concepts based on networking fundamentals
@@ -351,3 +348,17 @@ For questions, issues, or contributions:
 **Made with ❤️ for educational purposes**
 
 *This project demonstrates fundamental networking concepts and is perfect for learning about reliable data transfer protocols.* 
+
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Author
+
+**Momen H.**  
+📂 [GitHub Profile »](https://github.com/Momenh2)
+
+
